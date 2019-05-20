@@ -1,26 +1,32 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Main from './components/Main/main.component';
+
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <Main/>
     </div>
   );
-}
+}/*
+var date = Date.now();
+
+var tweets =  [
+  {id: 1, user: "Jolan Taelman", body:"Tweet 1", date: date, comments: [{id: 1, body: "comment 1", user: "username", createdAt: date, commenterPicture: "http://via.placeholder.com/20x20"} ] },
+  {id: 2, user: "Jolan Taelman", body:"Tweet 2", date: date, comments: [] },
+  {id: 3, user: "Jolan Taelman", body:"Tweet 3", date: date, comments: [] },
+];
+
+
+function deleteTweetfunc(id){
+  var newtweets = tweets;
+  var startposition = id - 1
+  console.log(newtweets)
+  var aa = newtweets.splice(startposition, 1);
+  console.log(aa)
+  console.log(newtweets)
+  tweets = newtweets;
+}*/
 
 export default App;
