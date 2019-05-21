@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ba4a34e.chunk.css",
-    "main.js": "/static/js/main.752d39c4.chunk.js",
-    "main.js.map": "/static/js/main.752d39c4.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.acf291ad.chunk.js": "/static/js/2.acf291ad.chunk.js",
-    "static/js/2.acf291ad.chunk.js.map": "/static/js/2.acf291ad.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.deb76d92f92b02a03895749bd28ce6f3.js": "/precache-manifest.deb76d92f92b02a03895749bd28ce6f3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7ba4a34e.chunk.css.map": "/static/css/main.7ba4a34e.chunk.css.map"
+    "main.css": "/Thesis-React/static/css/main.7ba4a34e.chunk.css",
+    "main.js": "/Thesis-React/static/js/main.2b9c7fc4.chunk.js",
+    "main.js.map": "/Thesis-React/static/js/main.2b9c7fc4.chunk.js.map",
+    "runtime~main.js": "/Thesis-React/static/js/runtime~main.1a0cb207.js",
+    "runtime~main.js.map": "/Thesis-React/static/js/runtime~main.1a0cb207.js.map",
+    "static/js/2.6e259f6c.chunk.js": "/Thesis-React/static/js/2.6e259f6c.chunk.js",
+    "static/js/2.6e259f6c.chunk.js.map": "/Thesis-React/static/js/2.6e259f6c.chunk.js.map",
+    "index.html": "/Thesis-React/index.html",
+    "precache-manifest.72e3c4c2febe8d275f00a05a9457720c.js": "/Thesis-React/precache-manifest.72e3c4c2febe8d275f00a05a9457720c.js",
+    "service-worker.js": "/Thesis-React/service-worker.js",
+    "static/css/main.7ba4a34e.chunk.css.map": "/Thesis-React/static/css/main.7ba4a34e.chunk.css.map"
   }
 }
