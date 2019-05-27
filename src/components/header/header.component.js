@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {Link } from "react-router-dom";
 import './header.component.scss';
 import { Modal } from 'react-bootstrap';
-import bird from '../../images/bird.png'
+
 class HeaderComp extends Component {
   constructor(props) {
     super(props);
@@ -60,7 +60,7 @@ class HeaderComp extends Component {
             </div>
             <span className="navbar__logo">
               <a href="/">
-                <img src={bird} alt=""/>
+                <img src="assets\images\bird.svg" alt=""/>
               </a>
             </span>
             <div className="navbar__group navbar__group_right">

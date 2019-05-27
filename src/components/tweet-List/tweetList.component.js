@@ -112,6 +112,9 @@ render(){
           {this.state.body}
         </p>
         <div className="tweet__form">
+          <a className="btn tweet__edit">
+            edit
+          </a>
           <button onClick={this.deleteTweet} value={this.state.id} className="btn tweet__delete"> Delete</button>
         </div>
       </div>
