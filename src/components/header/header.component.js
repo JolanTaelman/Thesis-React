@@ -2,6 +2,8 @@ import React, {Component} from 'react';
 import {Link } from "react-router-dom";
 import './header.component.scss';
 import { Modal } from 'react-bootstrap';
+import bird from '../../images/bird.png'
+
 
 class HeaderComp extends Component {
   constructor(props) {
@@ -40,8 +42,7 @@ class HeaderComp extends Component {
         <header className="navbar" role="banner">
           <div className="container">
             <div className="navbar__group navbar__group_left">
-                <ul className="navbar__main-navigation">
-                            
+                <ul className="navbar__main-navigation">    
                    <li> 
                      <Link to="/home">
                         <i className="fas fa-home" aria-hidden="true" />
@@ -55,12 +56,10 @@ class HeaderComp extends Component {
                    </Link>
                  </li>
               </ul>
-              
-
             </div>
             <span className="navbar__logo">
               <a href="/">
-                <img src="assets\images\bird.svg" alt=""/>
+              <img src={bird} alt=""/>
               </a>
             </span>
             <div className="navbar__group navbar__group_right">
