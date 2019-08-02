@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Thesis-React/static/css/main.ccba4e38.chunk.css",
+    "main.js": "/Thesis-React/static/js/main.4be26899.chunk.js",
+    "main.js.map": "/Thesis-React/static/js/main.4be26899.chunk.js.map",
+    "runtime~main.js": "/Thesis-React/static/js/runtime~main.1a0cb207.js",
+    "runtime~main.js.map": "/Thesis-React/static/js/runtime~main.1a0cb207.js.map",
+    "static/js/2.7033e113.chunk.js": "/Thesis-React/static/js/2.7033e113.chunk.js",
+    "static/js/2.7033e113.chunk.js.map": "/Thesis-React/static/js/2.7033e113.chunk.js.map",
+    "index.html": "/Thesis-React/index.html",
+    "precache-manifest.c2306de11c47d9080803d49dfd742c07.js": "/Thesis-React/precache-manifest.c2306de11c47d9080803d49dfd742c07.js",
+    "service-worker.js": "/Thesis-React/service-worker.js",
+    "static/css/main.ccba4e38.chunk.css.map": "/Thesis-React/static/css/main.ccba4e38.chunk.css.map"
+  }
+}
