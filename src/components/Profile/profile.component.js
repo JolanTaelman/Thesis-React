@@ -62,7 +62,7 @@ export class Profile extends Component {
                       Tweets:
                     </span>
                     <span>
-                      <a>12</a>
+                      <a>15</a>
                     </span>
                   </li>
                   <li>
@@ -70,7 +70,7 @@ export class Profile extends Component {
                       Following:
                     </span>
                     <span>
-                      <a>11</a>
+                      <a>15</a>
                     </span>
                   </li>
                   <li>
@@ -78,7 +78,7 @@ export class Profile extends Component {
                       Followers:
                     </span>
                     <span>
-                      <a>12</a>
+                      <a>15</a>
                     </span>
                   </li>
                 </ul>
