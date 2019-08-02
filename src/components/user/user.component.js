@@ -28,7 +28,7 @@ export class User extends Component {
                   <span className="user-information__stats-title">Following:</span>
                   <span>
                     <a href="/users/ + req.user.id">
-                      5
+                      15
                     </a>
                   </span>
                 </li>
@@ -51,7 +51,7 @@ export class User extends Component {
                 Tweets:
               </span>
               <span>
-                <a href="/users/ + req.user.id/following"> 12</a>
+                <a href="/users/ + req.user.id/following"> 15</a>
               </span>
             </li>
             <li>
@@ -59,7 +59,7 @@ export class User extends Component {
                 Following:
               </span>
               <span>
-                <a href="/users/ + req.user.id/following"> 11</a>
+                <a href="/users/ + req.user.id/following"> 15</a>
               </span>
             </li>
             <li>
@@ -67,7 +67,7 @@ export class User extends Component {
                 Followers:
               </span>
               <span>
-                <a href="/users/ + req.user.id/followers"> 12</a>
+                <a href="/users/ + req.user.id/followers"> 15</a>
               </span>
             </li>
           </ul>
